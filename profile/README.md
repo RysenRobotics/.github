@@ -4,23 +4,23 @@
         <source media="(prefers-color-scheme: light)" srcset="../images/logo.png">
         <img src="../images/logo.png" height="80" alt="RysenRobotics">
     </picture>
-
-### Manufacture Time by Making Robots Useful
-
-[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@%E6%BA%90%E5%8D%87%E6%99%BA%E8%83%BDDexcelRobotics)
-[![Bilibili](https://img.shields.io/badge/Bilibili-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546954116106634)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SharpaRobotics)  
-[![Website](https://img.shields.io/badge/Website-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dexcelbot.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@dexcelbot.com)
-
-
 </div>
+<br>
+<p align="center">
+    Powering Intelligent Leaps with Foundational Innovation
+</p>
+
+<p align="center">
+    <a href="https://www.youtube.com/@%E6%BA%90%E5%8D%87%E6%99%BA%E8%83%BDDexcelRobotics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+    <a href="https://space.bilibili.com/3546954116106634"><img src="https://img.shields.io/badge/Bilibili-ff69b4?style=flat&logo=bilibili&logoColor=white"alt="Bilibili"></a>
+    <a href="https://www.dexcelbot.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
+    <a href="https://x.com/wuji_global"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+    <a mailto:support@dexcelbot.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ### About Rysen Robotics
 
 ---
-
-Powering Intelligent Leaps with Foundational Innovation.
 
 Founded in 2024 and headquartered in Shenzhen, Rysen Robotics is committed to pioneering core technologies that redefine what is possible in robotics and AI. Our mission is to make dexterous manipulation technology accessible, reliable, and practical across diverse applications.
 
