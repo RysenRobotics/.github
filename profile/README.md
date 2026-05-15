@@ -32,7 +32,7 @@ At Rysen Robotics, we turn lab research into real-world impact, delivering depen
 
 ---
 
-Have questions or want to collaborate? Get in touch with the right team at Sharpa:
+Have questions or want to collaborate? Get in touch with the right team at Rysen Robotics:
 
 - **Sales:** [sales@dexcelbot.com](mailto:sales@dexcelbot.com)  
 - **PR / Media:** [pr@dexcelbot.com](mailto:pr@dexcelbot.com)  
