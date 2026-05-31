@@ -13,9 +13,9 @@
 <p align="center">
     <a href="https://www.youtube.com/@%E6%BA%90%E5%8D%87%E6%99%BA%E8%83%BDDexcelRobotics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
     <a href="https://space.bilibili.com/3546954116106634"><img src="https://img.shields.io/badge/Bilibili-ff69b4?style=flat&logo=bilibili&logoColor=white"alt="Bilibili"></a>
-    <a href="https://www.dexcelbot.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
-    <a href="https://x.com/wuji_global"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
-    <a mailto:support@dexcelbot.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.rysenbot.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
+    <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+    <a mailto:support@rysenbot.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ### About Rysen Robotics
@@ -34,6 +34,6 @@ At Rysen Robotics, we turn lab research into real-world impact, delivering depen
 
 Have questions or want to collaborate? Get in touch with the right team at Rysen Robotics:
 
-- **Sales:** [sales@dexcelbot.com](mailto:sales@dexcelbot.com)  
-- **PR / Media:** [pr@dexcelbot.com](mailto:pr@dexcelbot.com)  
-- **Technical Support:** [support@dexcelbot.com](mailto:support@dexcelbot.com)
+- **Sales:** [sales@rysenbot.com](mailto:sales@rysenbot.com)  
+- **PR / Media:** [pr@rysenbot.com](mailto:pr@rysenbot.com)  
+- **Technical Support:** [support@rysenbot.com](mailto:support@rysenbot.com)
