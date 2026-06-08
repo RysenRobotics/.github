@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-    <a href="https://www.youtube.com/@%E6%BA%90%E5%8D%87%E6%99%BA%E8%83%BDDexcelRobotics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@RysenRobotics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
     <a href="https://space.bilibili.com/3546954116106634"><img src="https://img.shields.io/badge/Bilibili-ff69b4?style=flat&logo=bilibili&logoColor=white"alt="Bilibili"></a>
+    <a href="https://x.com/RysenRobotics"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+    <a href="https://www.linkedin.com/company/rysenrobotics/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
     <a href="https://www.rysenbot.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
-    <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
-    <a mailto:support@rysenbot.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ### About Rysen Robotics
